@@ -9,3 +9,5 @@ assignmentsCV/caltech101/
 cifar-10-batches-py/
 
 Incidents-subset/
+
+**.pyc
