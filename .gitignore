@@ -1,3 +1,13 @@
 .idea/
 assignmentsCV/.DS_Store
 assignmentsCV/caltech101/
+.DS_Store
+
+**.pdf
+**.zip
+**.tar.gz
+cifar-10-batches-py/
+
+Incidents-subset/
+
+**.pyc
