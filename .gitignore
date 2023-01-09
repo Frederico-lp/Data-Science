@@ -13,3 +13,4 @@ Incidents-subset/
 __pycache__/
 
 **.pyc
+**.html
