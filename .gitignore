@@ -5,6 +5,7 @@ assignmentsCV/caltech101/
 
 **.pdf
 **.zip
+**.rar
 **.tar.gz
 cifar-10-batches-py/
 
@@ -14,3 +15,5 @@ __pycache__/
 
 **.pyc
 **.html
+
+**.pt
